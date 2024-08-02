@@ -1,12 +1,12 @@
 ---
-title: Post with Header Image
-tags: TeXt
+title: Gojo Satoru!
+tags: JJK
 article_header:
   type: cover
   image:
-    src: /screenshot.jpg
+    src: /Screenshot 2024-07-22 at 6.28.28 AM.png
 ---
 
-A Post with Header Image, See [Page layout](https://kitian616.github.io/jekyll-TeXt-theme/samples.html#page-layout) for more examples.
+Gojo looks sad :(
 
 <!--more-->
