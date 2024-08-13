@@ -52,7 +52,7 @@ header:
     url: /about.html
 
 
-      - titles:
+  - titles:
       # @start locale config
       en      : &EN       Achievements
       en-GB   : *EN
